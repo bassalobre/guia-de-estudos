@@ -8,13 +8,13 @@ Guia de estudos para um desenvolvedor web iniciante.
 5.  Orientação a Objetos
 6.  JavaScript e ES6
 7.  GIT (Controle de Versão)
-8.  SQL
-9.  PHP
-10. Protocolo HTTP
-11. Design Patterns
-12. Clean Code
-13. MVC
-14. REST
+8.  PHP e SQL
+9.  Protocolo HTTP
+10. REST
+11. Teste automatizado
+12. Design Patterns
+13. Clean Code
+14. MVC
 15. Framework PHP (ex: Laravel, CodeIgniter, Cake, Zend)
 16. CMS PHP (ex: Wordpress)
 17. Ecomercce (Prestashop, Magento ou Plugins como WooComercce)

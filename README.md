@@ -15,6 +15,9 @@ Guia de estudos para um desenvolvedor web iniciante.
 12. Design Patterns
 13. Clean Code
 14. MVC
-15. Framework PHP (ex: Laravel, CodeIgniter, Cake, Zend)
-16. CMS PHP (ex: Wordpress)
-17. Ecomercce (Prestashop, Magento ou Plugins como WooComercce)
+15. PSR's PHP
+16. Framework PHP (ex: Laravel, CodeIgniter, Cake, Zend)
+17. CMS PHP (ex: Wordpress)
+18. Ecomercce (Prestashop, Magento ou Plugins como WooComercce)
+19. S.O.L.I.D.
+20. Object Calisthenics
